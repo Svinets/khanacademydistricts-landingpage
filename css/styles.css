@@ -1,3 +1,13 @@
 h1 {
-  color: red;
+  color: #235EE5;
 }
+
+section.one {
+  background-color: #235EE5;
+  
+}
+
+div {
+  font: 14px "Helvetica Neue", Arial, Helvetica;  
+}
+
