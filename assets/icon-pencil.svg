@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-pencil-export</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="13.22245 0.777 0.0542 0.777 0.0542 13.946 13.22245 13.946 13.22245 0.777"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="assets" transform="translate(-48.000000, -170.000000)">
+            <g id="icon-pencil-export" transform="translate(48.000000, 169.000000)">
+                <g id="pencil">
+                    <polygon id="Fill-1" fill="#66AFE9" points="32.877 11.6527 43.571 22.3457 15.011 50.9057 4.317 40.2127"></polygon>
+                    <polygon id="Fill-2" fill="#1B6CE1" points="40.4253 19.201 43.5713 22.346 15.0103 50.906 11.8653 47.761"></polygon>
+                    <polygon id="Fill-3" fill="#1152B0" points="32.877 11.6527 43.571 22.3457 51.748 14.1687 41.054 3.4747"></polygon>
+                    <g id="Group-12" transform="translate(0.000000, 0.223000)">
+                        <g id="Group-6" transform="translate(41.000000, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-5"></g>
+                            <path d="M0.0542,3.252 L10.7482,13.946 L11.4142,13.279 C13.8252,10.868 13.8252,6.959 11.4142,4.548 L9.4522,2.585 C7.0412,0.174 3.1322,0.174 0.7212,2.585 L0.0542,3.252 Z" id="Fill-4" fill="#66AFE9" mask="url(#mask-2)"></path>
+                        </g>
+                        <g id="Group-9" transform="translate(0.000000, 39.000000)" fill="#D2E7F7">
+                            <path d="M15.0107,11.6831 L4.3167,0.9891 L0.0357,14.9741 C-0.1503,15.5811 0.4187,16.1501 1.0257,15.9641 L15.0107,11.6831 Z" id="Fill-7"></path>
+                        </g>
+                        <path d="M2.2529,46.7319 L0.0359,53.9739 C-0.1501,54.5819 0.4189,55.1499 1.0259,54.9639 L8.2679,52.7469 L2.2529,46.7319 Z" id="Fill-10" fill="#1152B0"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

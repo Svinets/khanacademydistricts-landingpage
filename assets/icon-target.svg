@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="56px" viewBox="0 0 67 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-target-export</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="assets" transform="translate(-135.000000, -169.000000)">
+            <g id="icon-target-export" transform="translate(135.000000, 169.000000)">
+                <g id="target">
+                    <g id="Group" transform="translate(4.501072, 0.000000)" fill-rule="nonzero">
+                        <path d="M33.9710645,0 L33.9710645,0 L29.5,0.0301075269 L29.5,55.7591398 L33.7910217,55.7591398 C49.1546797,55.7591398 61.7276733,43.2946237 61.7276733,27.8795699 C61.7276733,12.4645161 49.3647297,0 33.9710645,0 Z" id="Shape" fill="#1152B0"></path>
+                        <ellipse id="Oval" fill="#D2E7F7" cx="27.9366516" cy="28" rx="27.8466302" ry="27.9397849"></ellipse>
+                        <ellipse id="Oval" fill="#66AFE9" cx="27.9366516" cy="28" rx="19.924744" ry="19.9913978"></ellipse>
+                        <ellipse id="Oval" fill="#D2E7F7" cx="27.9366516" cy="28" rx="12.0628721" ry="12.1032258"></ellipse>
+                        <ellipse id="Oval" fill="#66AFE9" cx="27.9366516" cy="28" rx="3.99095023" ry="4.00430108"></ellipse>
+                    </g>
+                    <g id="Group" transform="translate(0.000000, 9.333333)" fill-rule="nonzero">
+                        <g id="Shape">
+                            <polygon fill="#66AFE9" points="12.5917889 8.16774174 9.08260186 2.88635229 3.09634154 0.0903225806 4.85093509 4.95748541 0 6.71794856 5.98626032 9.51397826 12.2821548 8.85811944"></polygon>
+                            <polygon fill="#FFFFFF" points="3.30816031 4.98183925 32.8643482 19.4198881 33.5136383 18.0815925 3.95745042 3.64354359"></polygon>
+                            <polygon fill="#FFFFFF" points="24.6658728 19.6896926 33.3379375 19.0707877 28.4757757 11.8623656"></polygon>
+                        </g>
+                        <polygon id="Shape" fill="#66AFE9" points="32.4677304 15.8666667 30.5772803 20.4129032 34.5082162 19.5096774"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

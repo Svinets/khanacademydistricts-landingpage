@@ -8,11 +8,15 @@
   text-align: center;
 }
 
-// div {
-//   .one {
-//     background-color: #235EE5;
-//   } 
-// }
+.two {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.three {
+  background-color: #F6F7F7;
+}
 
 div {
   font: 14px "Helvetica Neue", Arial, Helvetica;  
