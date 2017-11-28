@@ -2,12 +2,10 @@ h1 {
   color: #235EE5;
 }
 
-section.one {
-  background-color: #235EE5;
-}
-
-section.two {
-  
+section {
+  .one {
+    background-color: #235EE5;
+  }
 }
 
 div {

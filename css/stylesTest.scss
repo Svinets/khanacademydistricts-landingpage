@@ -1,0 +1,20 @@
+.one {
+  display: flex;
+  flex-direction: column;
+  background-color: #235EE5;
+  justify-content: center;
+  align-content: center;
+  color: white;
+  text-align: center;
+}
+
+// div {
+//   .one {
+//     background-color: #235EE5;
+//   } 
+// }
+
+div {
+  font: 14px "Helvetica Neue", Arial, Helvetica;  
+}
+
