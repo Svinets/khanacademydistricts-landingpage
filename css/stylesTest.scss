@@ -20,10 +20,13 @@
 }
 
 div, section {
-  font: 14px "Helvetica Neue", Arial, Helvetica;  
+  font-family: "Proxima Nova", Helvetica, Corbel, sans-serif; //get proxima nova to work
+
 }
 
 button {
   background-color: #71B312;
   color: white;
+  width: 340px;
+  align-self: center;
 }
