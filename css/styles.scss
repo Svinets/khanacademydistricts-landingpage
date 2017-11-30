@@ -21,8 +21,19 @@
   background-color: #F6F7F7;
 }
 
+.four {
+  display: flex;
+}
+
+.five {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center; 
+}
+
 div, section {
-  font-family: "Proxima Nova", Helvetica, Corbel, sans-serif; //get proxima nova to work
+  font-family: "Proxima Nova", Helvetica, Corbel, sans-serif; 
 
 }
 
