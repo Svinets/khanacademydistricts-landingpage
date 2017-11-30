@@ -1,16 +1,55 @@
-h1 {
-  color: #235EE5;
-}
-
-section.one {
+.one {
+  display: flex;
+  flex-direction: column;
   background-color: #235EE5;
+  justify-content: center;
+  align-content: center;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
 }
 
-section.two {
-  
+.two {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #ffffff;
 }
 
-div {
-  font: 14px "Helvetica Neue", Arial, Helvetica;  
+.three {
+  display: flex;
+  background-color: #F6F7F7;
 }
 
+.four {
+  display: flex;
+}
+
+.five {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center; 
+}
+
+div, section {
+  font-family: "Proxima Nova", Helvetica, Corbel, sans-serif; 
+
+}
+
+.buttonContainer {
+  margin: 50px;
+}
+
+button {
+  background-color: #71B312;
+  color: white;
+  width: 340px;
+  height: 50px;
+  align-self: center;
+  font-size: 1em;
+}
+
+.yo {
+  display: flex;
+}
