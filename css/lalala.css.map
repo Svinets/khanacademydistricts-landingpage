@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,EAAG;EACD,KAAK,EAAE,OAAO;;AAId,YAAK;EACH,gBAAgB,EAAE,OAAO;;AAI7B,GAAI;EACF,IAAI,EAAE,uCAAuC",
+"sources": ["testSASS.scss"],
+"names": [],
+"file": "lalala.css"
+}
