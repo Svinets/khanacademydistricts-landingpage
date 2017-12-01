@@ -25,6 +25,7 @@
 
 .four {
   display: flex;
+  padding: 60px;
 }
 
 .five {
