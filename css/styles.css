@@ -61,6 +61,11 @@ button {
   font-size: 1em;
 }
 
-.yo {
+.howItWorks {
   display: flex;
+  padding-top: 35px;
+}
+
+.sectionTitle {
+  font-size: 1.5em;
 }
