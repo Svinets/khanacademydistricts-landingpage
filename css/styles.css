@@ -69,3 +69,7 @@ button {
 .sectionTitle {
   font-size: 1.5em;
 }
+
+.sectionText {
+  padding: 5%
+}
