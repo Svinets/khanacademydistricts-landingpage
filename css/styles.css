@@ -14,11 +14,13 @@
   flex-direction: column;
   text-align: center;
   background-color: #ffffff;
+  padding: 50px;
 }
 
 .three {
   display: flex;
   background-color: #F6F7F7;
+  padding: 50px;
 }
 
 .four {
@@ -34,7 +36,14 @@
 
 div, section {
   font-family: "Proxima Nova", Helvetica, Corbel, sans-serif; 
+}
 
+#effective {
+  font-size: 2em;
+  width: 430px;
+  /* width: 40%; */
+  /* align-content: center; */
+  align-self: center;
 }
 
 .buttonContainer {
