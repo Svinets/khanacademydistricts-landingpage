@@ -73,3 +73,15 @@ button {
 .sectionText {
   padding: 5%
 }
+
+.proofPair {
+  display: flex;
+  width: 40%;
+  margin: 15px;
+  text-align: left;
+}
+
+.proofSection {
+  display: flex;
+  flex-wrap: wrap;
+}
