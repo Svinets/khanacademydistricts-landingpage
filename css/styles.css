@@ -127,6 +127,10 @@ button {
     width: 100%;
   }
 
+  .seven {
+    flex-direction: column;
+  }
+
   button {
     width: 200px;
   }
