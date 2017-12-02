@@ -36,6 +36,19 @@
   text-align: center; 
 }
 
+.six {
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center; 
+}
+
+.seven {
+  background-color: #F6F7F7;
+  display: flex;
+}
+
 div, section {
   font-family: "Proxima Nova", Helvetica, Corbel, sans-serif; 
 }
