@@ -101,3 +101,11 @@ button {
   display: flex;
   flex-wrap: wrap;
 }
+
+@media screen and (max-width: 768px) {
+  .howItWorks {
+    display: flex;
+    flex-direction: column;
+    padding-top: 35px;
+  }
+}
