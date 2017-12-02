@@ -56,6 +56,10 @@ div, section {
   font-family: "Proxima Nova", Helvetica, Corbel, sans-serif; 
 }
 
+#one_title {
+  padding: 15px;
+}
+
 #effective {
   font-size: 2em;
   width: 430px;
@@ -65,12 +69,15 @@ div, section {
 }
 
 #joinMillions {
-  width: 430px;
+  width: 350px;
   align-self: center;
+  padding: 15px;
+  font-size: 1em;
 }
 
 .buttonContainer {
   align-self: center;
+  height: 130px;
 }
 
 .howItWorks {
@@ -105,13 +112,28 @@ button {
   height: 50px;
   align-self: center;
   font-size: 1em;
-  margin: 50px;
+  margin: 30px;
 }
 
 @media screen and (max-width: 768px) {
   
+  .one {
+    align-items: baseline;
+  }
+
   #one_title {
+    text-align: left; 
     font-size: 0.7em;
+    padding: 4px;
+    align-self: center; 
+  }
+
+  #effective {
+    font-size: 1.3em;
+    width: 240px;
+    align-content: left;
+    align-self: center;
+    padding: 10px;
   }
 
   .howItWorks {
@@ -143,4 +165,5 @@ button {
   #joinMillions {
     display: none;
   }
+
 }
