@@ -64,6 +64,11 @@ div, section {
   align-self: center;
 }
 
+#joinMillions {
+  width: 430px;
+  align-self: center;
+}
+
 .buttonContainer {
   margin: 50px;
 }
