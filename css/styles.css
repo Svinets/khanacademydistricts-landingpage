@@ -47,6 +47,8 @@
 .seven {
   background-color: #F6F7F7;
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 div, section {
