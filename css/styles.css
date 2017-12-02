@@ -70,7 +70,7 @@ div, section {
 }
 
 .buttonContainer {
-  margin: 50px;
+  align-self: center;
 }
 
 button {
@@ -80,6 +80,7 @@ button {
   height: 50px;
   align-self: center;
   font-size: 1em;
+  margin: 50px;
 }
 
 .howItWorks {
