@@ -73,16 +73,6 @@ div, section {
   align-self: center;
 }
 
-button {
-  background-color: #71B312;
-  color: white;
-  width: 340px;
-  height: 50px;
-  align-self: center;
-  font-size: 1em;
-  margin: 50px;
-}
-
 .howItWorks {
   display: flex;
   padding-top: 35px;
@@ -108,10 +98,32 @@ button {
   flex-wrap: wrap;
 }
 
+button {
+  background-color: #71B312;
+  color: white;
+  width: 340px;
+  height: 50px;
+  align-self: center;
+  font-size: 1em;
+  margin: 50px;
+}
+
 @media screen and (max-width: 768px) {
   .howItWorks {
     display: flex;
     flex-direction: column;
     padding-top: 35px;
+  }
+
+  .three {
+    flex-direction: column;
+  }
+
+  .four {
+    flex-direction: column-reverse;
+    padding: 10px;
+  }
+  .proofPair {
+    width: 100%;
   }
 }
