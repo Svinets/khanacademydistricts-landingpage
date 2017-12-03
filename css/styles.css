@@ -17,9 +17,6 @@
   padding: 50px;
 }
 
-.two b {
-  background-color: #E6F3FC;
-}
 .points {
   width: 330px;
 }
@@ -34,9 +31,17 @@
   background-color: #E6F3FC; 
 }
 
+.three li {
+  padding: 10px 0px 10px 0px;
+}
+
 .four {
   display: flex;
   padding: 60px;
+}
+
+.four b {
+  background-color: #E6F3FC; 
 }
 
 .five {
@@ -45,6 +50,10 @@
   flex-direction: column;
   justify-content: center;
   text-align: center; 
+}
+
+.five img {
+  padding-right: 20px;
 }
 
 .six {
@@ -119,18 +128,41 @@ div, section {
 
 button {
   background-color: #71B312;
+  border: 0;
   color: white;
   width: 340px;
   height: 50px;
   align-self: center;
   font-size: 1em;
   margin: 30px;
+  border-radius: 5px;
+}
+
+#what_makes {
+  width: 40%
+}
+
+#laptop {
+  width: 60%
 }
 
 @media screen and (max-width: 768px) {
   
   .one {
     align-items: baseline;
+  }
+
+  .five{
+    padding: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .six {
+    padding: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: left;
   }
 
   #one_title {
@@ -175,6 +207,7 @@ button {
 
   .seven {
     flex-direction: column;
+    text-align: center;
   }
 
   button {
@@ -185,4 +218,12 @@ button {
     display: none;
   }
 
+  #what_makes {
+    width: 100%
+  }
+  
+  #laptop {
+    width: 70%;
+    align-self: center;
+  }
 }
