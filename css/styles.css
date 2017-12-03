@@ -72,6 +72,10 @@
   padding: 60px;
 }
 
+.person_name {
+  text-align: left;
+}
+
 div, section {
   font-family: "Proxima Nova", Helvetica, Corbel, sans-serif; 
 }
