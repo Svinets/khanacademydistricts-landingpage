@@ -40,6 +40,10 @@
   padding: 60px;
 }
 
+.four li {
+  padding: 10px 0px 10px 0px;
+}
+
 .four b {
   background-color: #E6F3FC; 
 }
