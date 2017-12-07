@@ -15,7 +15,10 @@ var app = express();
 
 
 app.use(express.static(path.resolve(__dirname)));
-app.use(express.static(path.resolve(__dirname), '/../css'));
+// app.get('/', (req, res) => {
+//     res.sendFile(path.join(__dirname + '/index.html'));
+// })
+// app.use(express.static(path.resolve(__dirname), '/../css'));
 
 
 // app.use('/', function (req, res) {
