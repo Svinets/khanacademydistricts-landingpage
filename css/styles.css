@@ -91,6 +91,10 @@ hr {
   text-align: center; 
 }
 
+#quotes {
+  text-align: left;
+}
+
 .seven {
   background-color: #F6F7F7;
   display: flex;
