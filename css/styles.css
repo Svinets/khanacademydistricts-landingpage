@@ -33,6 +33,7 @@
 
 .three li {
   padding: 10px 0px 10px 0px;
+  line-height: 1.5;
 }
 
 .four {
@@ -42,6 +43,7 @@
 
 .four li {
   padding: 10px 0px 10px 0px;
+  line-height: 1.5;
 }
 
 .four b {
