@@ -95,6 +95,9 @@ hr {
 
 #quotes {
   text-align: left;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  line-height: 1.5;
 }
 
 .seven {
@@ -106,6 +109,13 @@ hr {
 }
 
 .person_name {
+  text-align: left;
+  font-weight: bolder;
+  margin: 5px 0 5px 0;
+}
+
+.person_description {
+  font-size: 0.7em;
   text-align: left;
 }
 
