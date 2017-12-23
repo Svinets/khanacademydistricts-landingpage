@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lukkyjoe/khanacademy/issues"
   },
-  "homepage": "https://github.com/lukkyjoe/khanacademy#readme"
+  "homepage": "https://github.com/lukkyjoe/khanacademy#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
