@@ -5536,7 +5536,7 @@ button.close {
       align-items: center;
   -ms-flex-pack: center;
       justify-content: center;
-  width: 15%;
+  width: 30px;
   color: #fff;
   text-align: center;
   opacity: 0.5;
@@ -5566,6 +5566,7 @@ button.close {
   height: 20px;
   background: transparent no-repeat center center;
   background-size: 100% 100%;
+  background-color: black;
 }
 
 .carousel-control-prev-icon {
