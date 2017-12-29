@@ -128,6 +128,10 @@ hr {
   text-align: left;
 }
 
+.person_name, .person_description {
+  padding-left: 40px;
+}
+
 div, section {
   font-family: "Proxima Nova", Helvetica, Corbel, sans-serif; 
 }
