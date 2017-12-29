@@ -40,6 +40,10 @@ hr {
   padding: 50px;
 }
 
+.two img {
+  margin: 10px;
+}
+
 .points {
   width: 330px;
 }
@@ -201,6 +205,10 @@ button {
     align-items: baseline;
   }
 
+  .two {
+    padding: 20px;
+  }
+
   .five{
     padding: 0;
     padding-top: 20px;
@@ -223,7 +231,7 @@ button {
 
   #effective {
     font-size: 1.3em;
-    width: 240px;
+    width: 280px;
     align-content: left;
     align-self: center;
     padding: 10px;
@@ -232,12 +240,12 @@ button {
   .howItWorks {
     display: flex;
     flex-direction: column;
-    padding-top: 35px;
+    padding-top: 20px;
     justify-content: center;
   }
 
   .points {
-    width: 80%;
+    width: 95%;
     align-self: center;
     padding: 15px;
   }
